@@ -19,8 +19,6 @@ This repository accompanies the research paper:
 - `figures.R`: Script for generating figures from the paper.
 - `wrapper_fns.R`: Wrapper functions used in the analysis.
   
-Note: Analysis is primarily in R. Matlab is used for the ENDS methods only.
-
 If you find this work useful, please cite our paper:
 
 ```{.tex}
